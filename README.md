@@ -182,7 +182,7 @@ def find_gold_token():
       return code, dist, rot_y
 
 ## FlowChart
-
+![](/sr/flowchart.png)
 ## Possible improvements
 
 1. The project can be improved by implementing an algorithm that finds the nearest token instead of finding them randomly
